@@ -5,7 +5,7 @@ author: IdSodikul
 categories: [Blogging, Tech]
 tags: [techno]
 image:
-  path: [/commons/devices-mockup.png](https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_Flip_14/PXL_20241114_2154537752feature-q82-w2560-h.webp)
+  path: https://www.notebookcheck.net/fileadmin/_processed_/webp/Notebooks/HP/OmniBook_Ultra_Flip_14/PXL_20241114_2154537752feature-q82-w2560-h.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: HP Omnibook Ultra Flip Adalah Laptop Terbaik dan Terbaru
 ---
