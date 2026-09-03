@@ -3,18 +3,14 @@ title: GeForce RTX 50 Series
 description: GeForce RTX 50 Series hadir dengan berbagai teknologi canggih, mulai dari AI, ray tracing, hingga peningkatan kualitas gambar.
 author: cotes
 categories: [Blogging, Tech]
-tags: [technology]
-image:
-  path: /commons/devices-mockup.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+tags: [techno]
 ---
 
 Siapa yang tidak kenal Nvidia? Perusahaan yang selalu menghadirkan inovasi keren di dunia teknologi komputer, terutama dalam dunia gaming. Nah, pada ajang CS 2025 yang digelar di Las Vegas, Nvidia meluncurkan GeForce RTX 50 Series yang mencuri perhatian. 
 
 Penasaran dengan fitur dan pembaruan yang mereka tawarkan? Ternyata, Nvidia tidak main-main dalam menghadirkan peningkatan performa dan kemampuan AI untuk para gamer dan kreator konten. 
 
-GeForce RTX 50 Series hadir dengan berbagai teknologi canggih, mulai dari AI, ray tracing, hingga peningkatan kualitas gambar yang bikin mata terbelalak. Duh, gak sabar kan mau tahu lebih banyak? 
+[GeForce RTX 50 Series]() hadir dengan berbagai teknologi canggih, mulai dari AI, ray tracing, hingga peningkatan kualitas gambar yang bikin mata terbelalak. Duh, gak sabar kan mau tahu lebih banyak? 
 
 Yuk, simak apa saja yang baru dan apa yang beda dari RTX 50 Series ini!
 
