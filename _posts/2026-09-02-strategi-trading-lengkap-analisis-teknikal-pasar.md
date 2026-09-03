@@ -5,7 +5,7 @@ author: sidikul
 categories: [Blogging, Tech, SEO]
 tags: [SEO]
 image:
-  path: /assets/Posisi%20Trading%20XAUUSD%20Hari%20Ini%20Buy%20or%20Sell.webp?raw=true
+  path: https://static.dupoin.co.id/crm/202604/67c0317ab3338d7b6daa9da6f27e6501bd55a3af.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: contoh indikator moving average pada analisis teknikal trading
 ---
@@ -14,7 +14,7 @@ Pernah denger cerita orang yang mendadak kaya dari trading, tapi nggak lama kemu
 
 Tenang, kamu nggak sendirian. Trading emang sering dikira jalan pintas buat kaya mendadak. Padahal, trading itu lebih mirip olahraga maraton ketimbang lari cepat (*sprint*). Biar bisa *survive* dan konsisten cetak *profit*, kamu butuh kombinasi antara teknik yang pas, kontrol emosi yang dingin, dan pemahaman arah angin pasar global.
 
-Yuk, kita bedah satu per satu [strategi trading lengkap]("/") simpel tapi ampuh yang wajib kamu kuasai!
+Yuk, kita bedah satu per satu [strategi trading lengkap]() simpel tapi ampuh yang wajib kamu kuasai!
 
 ## 1. Analisis Teknikal: Membaca "Peta" Pergerakan Harga
 
@@ -66,22 +66,3 @@ Memasuki tahun 2026, peta pasar keuangan global bergerak makin dinamis. Memahami
 Trading bukan tentang tebak-tebakan atau spekulasi asal gilas. Trading adalah tentang mengelola probabilitas. Kuasai analisis teknikal dasar, disiplin menerapkan manajemen risiko, dan jaga emosi tetap dingin saat menghadapi pergerakan grafik.
 
 Ingat, tujuan utama trading di awal bukanlah langsung jadi miliarder, melainkan menjaga modal kamu tetap aman sambil terus mengasah konsistensi *profit*!
-
----
-
-### 💡 Tips Optimasi SEO (Biar Artikel Ini Juara di Google)
-
-Bila artikel ini ingin dipublikasikan di blog atau situs web, berikut beberapa poin teknis SEO yang perlu diterapkan:
-
-2. **Meta Data yang Menarik (*Click-Through Rate* / CTR):**
-* **Meta Title:** *Strategi Trading Lengkap 2026: Analisis Teknikal & Psikologi Pasar* (Max. 60 karakter).
-* **Meta Description:** *Panduan praktis belajar trading: teknik price action, manajemen risiko, hingga proyeksi pasar global 2026. Yuk, baca selengkapnya!* (Max. 150 karakter).
-
-
-4. **Internal Link & External Link:**
-* Tambahkan tautan ke artikel edukasi trading lainnya di situsmu (*internal link*).
-* Berikan *external link* ke sumber terpercaya (misalnya situs BAPPEBTI saat membahas regulasi broker).
-
-5. **Optimasi Gambar:**
-* Tambahkan visual pendukung (misal: gambar pola *candlestick* atau grafik MA).
-* Isi tag `alt text` gambar dengan kata kunci relevan, contoh: `alt="contoh indikator moving average pada analisis teknikal trading"`.
