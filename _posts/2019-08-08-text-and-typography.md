@@ -2,9 +2,8 @@
 title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
-categories: [Blogging, Demo]
-tags: [typography]
-pin: true
+categories: [Blogging, SEO]
+tags: [typo]
 math: true
 mermaid: true
 image:
@@ -135,7 +134,7 @@ fi;
 
 ## Mathematics
 
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
+The mathematics powered by [**MathJax**]():
 
 $$
 \begin{equation}
