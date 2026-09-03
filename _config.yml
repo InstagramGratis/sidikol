@@ -16,34 +16,34 @@ timezone: Asia/Jakarta
 
 title: IdSodikul # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Web Dev Alone & FLAZH # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Akses berbagai layanan digital cepat dan praktis di sidikul.com. Platform terpercaya untuk solusi kebutuhan harian Anda secara efektif dan efisien.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://sidikul.com/"
 
 github:
-  username: github_username # change to your GitHub username
+  username: IdSodikul # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: IdSodikul # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: IdSodikul
+  email: example@sidikul.com # change to your email address
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/IdSodikul # change to your Twitter homepage
+    - https://github.com/IdSodikul # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/ekosodikul
+    - https://www.linkedin.com/ekosodikulanwar
 
 # Site Verification Settings
 webmaster_verifications:
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fbdo14-1.fna.fbcdn.net/v/t39.30808-1/452071661_2618530458316592_5194103684831488697_n.jpg?stp=c0.30.918.918a_dst-jpg_tt6&cstp=mx918x918&ctp=s160x160&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeE7X2st1q2t86oWE7uDRCY1-Y1uf_ZwcU_5jW5_9nBxTxxzguqJRBLmuIwtXEK7VDQW7M_gBgOmHyHokQykUret&_nc_ohc=krcr9CwHP4oQ7kNvwFUE-mD&_nc_oc=AdqJP9oMelOA7i06imnUofpHNMUTez8KV5ybrU1h8QwgfjqyDR0sllB5Q435k5ILJWU&_nc_zt=24&_nc_ht=scontent.fbdo14-1.fna&_nc_gid=BhNVxSpPOUdVNV89lk-huQ&_nc_ss=7a2a8&oh=00_AQL5uE9DiLP2Oiw71rzzl2uhBagRTPWg3SAxrcIsj3Pnpw&oe=6A9F071F
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
