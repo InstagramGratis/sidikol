@@ -27,8 +27,6 @@ Aplikasi Dupoin dirancang untuk memberikan kenyamanan bertransaksi, baik bagi *t
 * **Fitur Analisis Terintegrasi:** Dilengkapi alat analisis teknikal lengkap seperti *Moving Average*, *RSI*, *Fibonacci*, hingga *indikator kustom*.
 * **Manajemen Akun Terpadu:** Buka akun *demo*, akun *live*, deposit, hingga penarikan dana dilakukan dalam satu aplikasi tanpa perlu berpindah ke situs web luar.
 
-![A Tampilan Grafik XAUUSD di Review Aplikasi Trading Terpercaya 2026 Dupoin](https://static.dupoin.co.id/crm/202604/67c0317ab3338d7b6daa9da6f27e6501bd55a3af.jpg)
-
 ## 2. Pengalaman Bertransaksi Multi-Instrumen di Ekosistem Dupoin
 
 ### A. Pengalaman Trading Emas (XAUUSD) dengan Spread Kompetitif
