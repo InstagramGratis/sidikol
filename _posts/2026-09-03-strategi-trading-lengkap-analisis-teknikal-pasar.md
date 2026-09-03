@@ -14,7 +14,7 @@ Pernah denger cerita orang yang mendadak kaya dari trading, tapi nggak lama kemu
 
 Tenang, kamu nggak sendirian. Trading emang sering dikira jalan pintas buat kaya mendadak. Padahal, trading itu lebih mirip olahraga maraton ketimbang lari cepat (*sprint*). Biar bisa *survive* dan konsisten cetak *profit*, kamu butuh kombinasi antara teknik yang pas, kontrol emosi yang dingin, dan pemahaman arah angin pasar global.
 
-Yuk, kita bedah satu per satu [strategi trading lengkap]("/#") simpel tapi ampuh yang wajib kamu kuasai!
+Yuk, kita bedah satu per satu [strategi trading lengkap]("/") simpel tapi ampuh yang wajib kamu kuasai!
 
 ## 1. Analisis Teknikal: Membaca "Peta" Pergerakan Harga
 
