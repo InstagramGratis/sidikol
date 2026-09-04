@@ -10,7 +10,7 @@ image:
   alt: Dupoin Blog Competition Resmi Dibuka, Kesempatan Emas Blogger Raih Hadiah
 ---
 
-Dupoin Blog Competition Resmi Dibuka: Kesempatan Emas Blogger Raih Hadiah Belasan Juta Rupiah - Kabar gembira untuk para *blogger*, penulis, dan kreator konten di seluruh Indonesia! Dalam rangka menyambut momen *5th Anniversary*, Dupoin resmi membuka ajang **Dupoin Blog Writing Competition**.
+Dupoin Blog Competition Resmi Dibuka - Kesempatan Emas Blogger Raih Hadiah Belasan Juta Rupiah - Kabar gembira untuk para *blogger*, penulis, dan kreator konten di seluruh Indonesia! Dalam rangka menyambut momen *5th Anniversary*, Dupoin resmi membuka ajang **Dupoin Blog Writing Competition**.
 
 Kompetisi ini menjadi wadah tepat bagi para pemilik blog untuk menyalurkan kemampuan menulis, berbagi wawasan finansial, sekaligus berkesempatan memenangkan total hadiah hingga **Rp18.500.000**.
 
