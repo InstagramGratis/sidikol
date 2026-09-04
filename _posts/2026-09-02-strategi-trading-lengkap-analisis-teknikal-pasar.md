@@ -5,7 +5,7 @@ author: sidikul
 categories: [Blogging, Tech, SEO]
 tags: [SEO]
 image:
-  path: /assets/Posisi%20Trading%20XAUUSD%20Hari%20Ini%20Buy%20or%20Sell.webp
+  path: /assets/posisi-trading-xauusd-hari-ini-buy-or-sell.webp
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: contoh indikator moving average pada analisis teknikal trading
 ---
