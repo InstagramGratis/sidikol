@@ -1,5 +1,5 @@
 ---
-title: Pentingnya Pialang Berizin BAPPEBTI - Aman & Lindungi Dana Nasabah
+title: Pentingnya Pialang Berizin BAPPEBTI | Aman & Lindungi Dana Nasabah
 description: Ingin trading tenang? Ketahui pentingnya memilih pialang berizin BAPPEBTI, fungsi rekening terpisah, dan cara menghindari broker bodong di sini!
 author: sidikul
 categories: [Blogging, SEO]
