@@ -16,7 +16,7 @@ Q: "Bagaimana cara memastikan broker saya legal atau ilegal?"
 Qa: "Apakah dana di Segregated Account bisa hilang jika pialang bangkrut?"
 -Aa: "Tidak. Karena dananya disimpan terpisah di Bank Kustodian/Penyimpan, aset nasabah tidak dapat disita atau digunakan untuk menyelesaikan kewajiban utang pialang yang bangkrut."
 image:
-  path: https://static.dupoin.co.id/crm/202608/1b565e96ca60e11ec2866b3ad8c9fb7c0d0fd908.jpg
+  path: /assets/infografis-cara-dana-nasabah-masuk-ke-segregated-account.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Tampilan Grafik XAUUSD di Review Aplikasi Trading Terpercaya Dupoin.
 ---
