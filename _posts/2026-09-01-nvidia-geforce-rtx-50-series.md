@@ -1,7 +1,7 @@
 ---
 title: GeForce RTX 50 Series 
 description: GeForce RTX 50 Series hadir dengan berbagai teknologi canggih, mulai dari AI, ray tracing, hingga peningkatan kualitas gambar.
-author: cotes
+author: sidikul
 categories: [Blogging, Tech]
 tags: [techno]
 ---
