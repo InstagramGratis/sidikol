@@ -3,9 +3,9 @@ title: Pentingnya Jual Beli Berizin BAPPEBTI: Aman dan Lindungi Dana Nasabah
 description: Ingin trading tenang? Ketahui pentingnya memilih pialang berizin BAPPEBTI, fungsi rekening terpisah, dan cara menghindari broker bodong di sini!
 author: sidikul
 categories: [Blogging, Tech, SEO]
-tags: [SEO]
+tags: [seo]
 image:
-  path: https://github.com/InstagramGratis/sidikol/blob/main/assets/infografis-cara-dana-nasabah-masuk-ke-segregated-account.jpg?raw=true
+  path: https://github.com/InstagramGratis/sidikol/blob/main/assets/infografis-cara-dana-nasabah-masuk-ke-segregated-account.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Ilustrasi keamanan dana nasabah di pialang berizin BAPPEBTI
 ---
@@ -24,7 +24,7 @@ Sederhananya, BAPPEBTI itu ibarat "wasit" sekaligus "polisi" di industri perdaga
 
 Tanpa izin resmi dari BAPPEBTI, pialang atau broker yang beroperasi di Indonesia dianggap **ilegal**. Sekalipun mereka klaim punya izin dari luar negeri (seperti Vanuatu, Cyprus, atau negara *offshore* lainnya), secara hukum Indonesia, dana kamu tidak memiliki jaminan perlindungan resmi dari negara.
 
-![Kenapa Harus Trading di Pialang Berizin BAPPEBTI](https://static.dupoin.co.id/crm/202605/0c200e27bf98ea7b50b8ad32ef14c8a0b9b05e27.png?sign=A097641D9FE8BA56A53ADCB7FBE134AF89DB3B70)
+![Kenapa Harus Trading di Pialang Berizin BAPPEBTI](https://static.dupoin.co.id/crm/202605/0c200e27bf98ea7b50b8ad32ef14c8a0b9b05e27.png)
 
 Baca juga: [Review Aplikasi Dupoin - Broker Forex Pilihan](https://sidikul.com/review-aplikasi-dupoin-broker-forex-pilihan-legal-bappebti/)
 
