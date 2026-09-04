@@ -1,7 +1,7 @@
 ---
 title: HP Omnibook Ultra Flip
 description: Laptop Keren dengan Performa Gahar, Tapi Punya Kekurangan? Gaya hidup yang semakin mengandalkan Teknologi.
-author: IdSodikul
+author: sidikul
 categories: [Blogging, Tech]
 tags: [techno]
 image:
