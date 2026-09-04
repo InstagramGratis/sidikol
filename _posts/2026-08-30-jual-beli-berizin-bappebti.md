@@ -7,12 +7,12 @@ tags: [seo]
 faq:
 - Q: "Apa itu Segregated Account (Rekening Terpisah) dalam trading?"
 A: "*Segregated Account* adalah rekening bank khusus milik pialang/broker yang digunakan **hanya** untuk menyimpan dana deposit nasabah. Rekening ini terpisah secara total dari rekening operasional perusahaan pialang dan berada di bawah pengawasan BAPPEBTI serta bank penyimpan yang ditunjuk."
-- Q: "Mengapa saya harus memilih pialang yang terdaftar di BAPPEBTI?"
-A: "Pialang yang terdaftar di BAPPEBTI memberikan perlindungan hukum yang jelas, transparansi transaksi melalui lembaga kliring, serta jaminan keamanan dana di *segregated account*. Jika terjadi sengketa atau masalah keuangan pada pialang, dana nasabah tetap terlindungi hukum Indonesia."
-- Q: "Bagaimana cara memastikan broker saya legal atau ilegal?"
-A: "Kamu bisa mengeceknya langsung melalui situs resmi BAPPEBTI di `bappebti.go.id` pada menu daftar pialang berjangka resmi. Selain itu, pastikan rekening tujuan deposit menggunakan nama *Segregated Account* resmi pialang, bukan rekening perorangan atau pribadi."
-- Q: "Apakah dana di Segregated Account bisa hilang jika pialang bangkrut?"
-A: "Tidak. Karena dananya disimpan terpisah di Bank Kustodian/Penyimpan, aset nasabah tidak dapat disita atau digunakan untuk menyelesaikan kewajiban utang pialang yang bangkrut."
+Q: "Mengapa saya harus memilih pialang yang terdaftar di BAPPEBTI?"
+-A: "Pialang yang terdaftar di BAPPEBTI memberikan perlindungan hukum yang jelas, transparansi transaksi melalui lembaga kliring, serta jaminan keamanan dana di *segregated account*. Jika terjadi sengketa atau masalah keuangan pada pialang, dana nasabah tetap terlindungi hukum Indonesia."
+q: "Bagaimana cara memastikan broker saya legal atau ilegal?"
+-: "Kamu bisa mengeceknya langsung melalui situs resmi BAPPEBTI di `bappebti.go.id` pada menu daftar pialang berjangka resmi. Selain itu, pastikan rekening tujuan deposit menggunakan nama *Segregated Account* resmi pialang, bukan rekening perorangan atau pribadi."
+QQ: "Apakah dana di Segregated Account bisa hilang jika pialang bangkrut?"
+Aa: "Tidak. Karena dananya disimpan terpisah di Bank Kustodian/Penyimpan, aset nasabah tidak dapat disita atau digunakan untuk menyelesaikan kewajiban utang pialang yang bangkrut."
 image:
   path: https://github.com/InstagramGratis/sidikol/blob/main/assets/infografis-cara-dana-nasabah-masuk-ke-segregated-account.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
