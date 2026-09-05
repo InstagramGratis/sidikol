@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://scontent.fbdo14-1.fna.fbcdn.net/v/t39.30808-1/452071661_2618530458316592_5194103684831488697_n.jpg?stp=c0.30.918.918a_dst-jpg_tt6&cstp=mx918x918&ctp=s160x160&_nc_cat=102&ccb=1-7&_nc_sid=1d2534&_nc_eui2=AeE7X2st1q2t86oWE7uDRCY1-Y1uf_ZwcU_5jW5_9nBxTxxzguqJRBLmuIwtXEK7VDQW7M_gBgOmHyHokQykUret&_nc_ohc=krcr9CwHP4oQ7kNvwFUE-mD&_nc_oc=AdqJP9oMelOA7i06imnUofpHNMUTez8KV5ybrU1h8QwgfjqyDR0sllB5Q435k5ILJWU&_nc_zt=24&_nc_ht=scontent.fbdo14-1.fna&_nc_gid=BhNVxSpPOUdVNV89lk-huQ&_nc_ss=7a2a8&oh=00_AQL5uE9DiLP2Oiw71rzzl2uhBagRTPWg3SAxrcIsj3Pnpw&oe=6A9F071F
+avatar: /assets/img/favicons/android-chrome-512x512.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
