@@ -2,7 +2,7 @@
 title: Salicylic Acid Adalah Kandungan Skincare paling Populer
 description: Asam salisilat atau salicylic acid adalah salah satu kandungan skincare paling populer, terutama bagi pemilik kulit berminyak dan berjerawat.
 author: pajar
-categories: [Bio]
+categories: [Bio, Tech]
 tags: [Biologi]
 ---
 
