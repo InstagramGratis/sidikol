@@ -1,6 +1,6 @@
 ---
 title: Kalender Pendidikan 2026/2027 Kalender Sekolah & PDF Unduhan
-description: Kalender Pendidikan 2026/2027 lengkap: jadwal tahun ajaran, minggu efektif, MPLS, PTS/PAS, libur nasional, dan link unduh PDF. Panduan praktis untuk kepala sekolah, guru, siswa, dan orang tua.
+description: Kalender Pendidikan 2026/2027 lengkap jadwal tahun ajaran, minggu efektif, MPLS, PTS/PAS, libur nasional, dan link unduh PDF. Panduan praktis untuk kepala sekolah, guru, siswa, dan orang tua.
 author: sidikul
 categories: [study]
 tags: [kalender pendidikan, kaldik, sekolah, 2026, 2027]
