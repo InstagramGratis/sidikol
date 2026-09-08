@@ -2,7 +2,7 @@
 title: Mengenal Lebih Dekat Apa Itu Bappebti ?
 description: Badan Pengawas Perdagangan Berjangka Komoditi merupakan lembaga nonkementerian di bawah Kementerian Perdagangan Republik Indonesia
 author: sidikul
-categories: [SEO, Techno]
+categories: [Techno]
 tags: [tech]
 image:
   path: /assets/apa-itu-bappebti.jpg
