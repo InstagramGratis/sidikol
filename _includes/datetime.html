@@ -1,0 +1,8 @@
+{%- if include.date -%}
+  {%- assign _date = include.date | date: "%Y-%m-%d" -%}
+  {%- if include.tooltip -%}
+    <time datetime="{{ _date }}" title="{{ include.date | date: "%A, %B %d, %Y" }}">{{ _date }}</time>
+  {%- else -%}
+    <time datetime="{{ _date }}">{{ _date }}</time>
+  {%- endif -%}
+{%- endif -%}
