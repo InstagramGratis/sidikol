@@ -9,7 +9,7 @@ image:
   path: /assets/cloud-dropbox.png
   alt: Kalender Pendidikan 2026/2027 - ilustrasi cloud dan dokumen
 seo_title: Kalender Pendidikan 2026/2027 Jadwal, Minggu Efektif & Unduh PDF
-seo_description: Kalender Pendidikan 2026/2027 resmi — panduan lengkap untuk kepala sekolah, guru, siswa, dan orang tua: jadwal tahun ajaran, MPLS, PTS/PAS, PAT, libur, dan link unduh PDF.
+seo_description: Kalender Pendidikan 2026/2027 resmi — panduan lengkap untuk kepala sekolah, guru, siswa, dan orang tua jadwal tahun ajaran, MPLS, PTS/PAS, PAT, libur, dan link unduh PDF.
 ---
 
 Kalender Pendidikan 2026/2027 (Kaldik 2026/2027) adalah panduan resmi yang mengatur jadwal kegiatan pembelajaran selama satu tahun ajaran. Artikel ini menjelaskan struktur utama, fungsi, manfaat untuk stakeholder sekolah, serta menyediakan tautan unduh PDF agar sekolah dan orang tua mudah menggunakan kalender ini.
