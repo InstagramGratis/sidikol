@@ -8,7 +8,7 @@ keywords: ["kalender pendidikan 2026/2027","kaldik 2026 2027","kalender sekolah 
 image:
   path: /assets/cloud-dropbox.png
   alt: Kalender Pendidikan 2026/2027 - ilustrasi cloud dan dokumen
-seo_title: Kalender Pendidikan 2026/2027: Jadwal, Minggu Efektif & Unduh PDF
+seo_title: Kalender Pendidikan 2026/2027 Jadwal, Minggu Efektif & Unduh PDF
 seo_description: Kalender Pendidikan 2026/2027 resmi — panduan lengkap untuk kepala sekolah, guru, siswa, dan orang tua: jadwal tahun ajaran, MPLS, PTS/PAS, PAT, libur, dan link unduh PDF.
 ---
 
