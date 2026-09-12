@@ -1,11 +1,9 @@
-
-
 ---
 title: Inilah Berbagai Manfaat Daun Salam untuk Kecantikan bagi Wanita
 description: Salah satu manfaat daun salam bagi wanita yaitu adalah kemampuannya untuk menenangkan dan meredakan nyeri haid bahkan daun salam ini bisa dibuat untuk kecantikan loh.
 author: pajar
 categories: [Bio]
-tags: [daun-salam-kecantikan, daun-salam, daun-salam-wanita, daun-salam-manfaat, daun-salam]
+tags: [daun-salam kecantikan, daun-salam, daun-salam-wanita, daun-salam-manfaat, daun-salam]
 keywords: [daun salam, manfaat daun salam, daun salam kecantikan, daun salam manfaat, wanita dan daun salam]
 image:
   path: /assets/manfaat-daun-salam.jpg
